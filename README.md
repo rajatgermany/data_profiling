@@ -7,7 +7,7 @@ Minimalistic dashboard framework to have a quick look to the structured data
 - Currently dashboard shows three three sections - Missing Values, Categorical Data,  Numerical Data
 - Highly adaptable to new data with little to no configuration.
 
-![alt text](./img/demo_2.png)
+![alt text](./img/demo2.png)
 
 
 ## Technical Details
