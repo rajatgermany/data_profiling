@@ -14,5 +14,6 @@ Minimalistic dashboard framework to have a quick look to the structured data
 
 ## How to Use
   - Add the train.csv in the base_data directory 
+  - pip install -r requirements.txt
   - Run dashboard.py
-  
+ 
